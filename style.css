@@ -107,13 +107,18 @@ form {
     }
 }
 
-@media (max-width: 400px){
+@media (max-width: 416px){
     #btn, #temperatureinput{
-        width: 25%;
+        width: 40%;
     }
 }
 
-@media (max-width: 400px){
+@media (max-width: 390px){
+
+    #btn, #temperatureinput{
+        width: 40%;
+    }
+    
   .general i{
     font-size: 6rem;
   }
